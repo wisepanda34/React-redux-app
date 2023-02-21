@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wisepanda34/React-redux-app/static/css/main.a49fbaa2.css",
-    "main.js": "/wisepanda34/React-redux-app/static/js/main.a2213d26.js",
-    "static/js/787.47054480.chunk.js": "/wisepanda34/React-redux-app/static/js/787.47054480.chunk.js",
-    "index.html": "/wisepanda34/React-redux-app/index.html",
-    "main.a49fbaa2.css.map": "/wisepanda34/React-redux-app/static/css/main.a49fbaa2.css.map",
-    "main.a2213d26.js.map": "/wisepanda34/React-redux-app/static/js/main.a2213d26.js.map",
-    "787.47054480.chunk.js.map": "/wisepanda34/React-redux-app/static/js/787.47054480.chunk.js.map"
+    "main.css": "/github.io/React-redux-app/static/css/main.a49fbaa2.css",
+    "main.js": "/github.io/React-redux-app/static/js/main.8ba1a26b.js",
+    "static/js/787.47054480.chunk.js": "/github.io/React-redux-app/static/js/787.47054480.chunk.js",
+    "index.html": "/github.io/React-redux-app/index.html",
+    "main.a49fbaa2.css.map": "/github.io/React-redux-app/static/css/main.a49fbaa2.css.map",
+    "main.8ba1a26b.js.map": "/github.io/React-redux-app/static/js/main.8ba1a26b.js.map",
+    "787.47054480.chunk.js.map": "/github.io/React-redux-app/static/js/787.47054480.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a49fbaa2.css",
-    "static/js/main.a2213d26.js"
+    "static/js/main.8ba1a26b.js"
   ]
 }
