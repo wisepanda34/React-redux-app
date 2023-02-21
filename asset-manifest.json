@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wisepanda34/React-redux-app/static/css/main.a49fbaa2.css",
+    "main.js": "/wisepanda34/React-redux-app/static/js/main.a2213d26.js",
+    "static/js/787.47054480.chunk.js": "/wisepanda34/React-redux-app/static/js/787.47054480.chunk.js",
+    "index.html": "/wisepanda34/React-redux-app/index.html",
+    "main.a49fbaa2.css.map": "/wisepanda34/React-redux-app/static/css/main.a49fbaa2.css.map",
+    "main.a2213d26.js.map": "/wisepanda34/React-redux-app/static/js/main.a2213d26.js.map",
+    "787.47054480.chunk.js.map": "/wisepanda34/React-redux-app/static/js/787.47054480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49fbaa2.css",
+    "static/js/main.a2213d26.js"
+  ]
+}
